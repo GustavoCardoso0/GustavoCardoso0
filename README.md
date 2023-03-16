@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, eu sou o Gustavo! 👋
 
-<!--
-**GustavoEvCardoso/GustavoEvCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Fazendo o curso de ADS na Universidade São Judas
+- 🌱 Estudando JavaScript
+- 💬 Email: gustavoev.cardoso@gmail.com
+
+
+![GustavoEvCardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEvCardoso&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEvCardoso&theme=github_dark&hide_progress=true)](https://github.com/GustavoEvCardoso/github-readme-stats)
+
+<div>
+   <a href="https://www.linkedin.com/in/gustavo-evcardoso01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:gustavoev.cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=gold" target="_blank"></a>
+</div>
