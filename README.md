@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Email: gustavoev.cardoso@gmail.com
 
 
-![GustavoEvCardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEvCardoso&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEvCardoso&show_icons=false&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEvCardoso&theme=github_dark&hide_progress=true)](https://github.com/GustavoEvCardoso/github-readme-stats)
 
 <div>
