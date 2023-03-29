@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 ##
 <div>
- <a href="target="https://www.linkedin.com/in/gustavo-evcardoso01/blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="target="https://www.linkedin.com/in/gustavo-evcardoso01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:gustavoev.cardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=gold" target="_blank"></a>
 </div> 
 
