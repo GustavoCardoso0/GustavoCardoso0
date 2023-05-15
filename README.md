@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Fazendo o curso de ADS na Universidade São Judas
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e Java
 - 💬 Email: gustavoev.cardoso@gmail.com
 
 ##
