@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Fazendo o curso de ADS na Universidade São Judas
+- 🔭 Fazendo o curso de ADS na Universidade São Judas(Primeiro Semestre)
 - 🌱 Estudando JavaScript e Java
 - 💬 Email: gustavoev.cardoso@gmail.com
 
