@@ -1,10 +1,7 @@
 ### Olá, eu sou o Gustavo! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 Fazendo o curso de ADS na Universidade São Judas(Terceiro Semestre)
-- 🌱 Estudando JavaScript e Java
+- 🌱 Estudando REACT
 - 💬 Email: gustavoev.cardoso@gmail.com
 
 ##
